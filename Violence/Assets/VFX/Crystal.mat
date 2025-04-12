@@ -21,8 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Crystal
-  m_Shader: {fileID: -6465566751694194690, guid: df00015f22798b14e87fa97ba7657cf2,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: df00015f22798b14e87fa97ba7657cf2, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -54,5 +53,5 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 1.1494381, g: 5.5635495, b: 5.9921575, a: 0}
+    - _Color: {r: 0.5747191, g: 2.7817748, b: 2.9960787, a: 0}
   m_BuildTextureStacks: []
