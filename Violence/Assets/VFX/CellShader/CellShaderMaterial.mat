@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CellShaderMaterial
-  m_Shader: {fileID: -6465566751694194690, guid: 1f9c4f061540b8b43836555b2a615181,
-    type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 1f9c4f061540b8b43836555b2a615181, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -37,7 +36,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_8fd849b4908648fa82f121067d26fa8c_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 8ac727c9fc2841a489c7ada1ed0712e0, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -54,6 +53,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AlphaClipping: 1
     - _Ambient: 0.53
     - _QueueControl: 0
     - _QueueOffset: 0

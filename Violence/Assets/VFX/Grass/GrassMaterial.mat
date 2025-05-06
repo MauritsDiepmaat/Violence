@@ -80,10 +80,10 @@ Material:
     - _WindNoiseSpeed: 0.1
     - _WindSpeed: 0.2
     m_Colors:
-    - _BottomColor: {r: 0.079741366, g: 0.3584906, b: 0.068766996, a: 1}
-    - _FarColor: {r: 0.0963943, g: 1, b: 0, a: 0}
+    - _BottomColor: {r: 0.35686275, g: 0.07058823, b: 0.07058823, a: 1}
+    - _FarColor: {r: 0.3890928, g: 1, b: 0, a: 0}
     - _NearFarRange: {r: 10, g: 25, b: 0, a: 0}
-    - _Nearcolor: {r: 0.72181964, g: 1, b: 0, a: 0}
+    - _Nearcolor: {r: 0.5540875, g: 1, b: 0, a: 0}
     - _ShadowColor: {r: 0.003955513, g: 0.09189193, b: 0.2515723, a: 0}
     - _WindNoiseContrast: {r: 0, g: 1, b: 0, a: 0}
     - _WindNoiseScale: {r: 10, g: 20, b: 0, a: 0}
