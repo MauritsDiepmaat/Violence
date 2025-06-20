@@ -53,13 +53,12 @@ Material:
     - _Speed_1: 0.0015
     - _Speed_2: 0.002
     m_Colors:
-    - _BottomSkyColor: {r: 0.7137255, g: 0.84705883, b: 1, a: 0}
-    - _Color: {r: 6.552284, g: 0, b: 67.79352, a: 0}
-    - _Color_1: {r: 0, g: 225.49077, b: 225.49077, a: 0}
-    - _Color_2: {r: 420.78067, g: 223.8195, b: 0, a: 0}
-    - _Color_3: {r: 3.482202, g: 2.175585, b: 0, a: 0}
-    - _SkyColor: {r: 0.33333334, g: 0, b: 0.78039217, a: 0}
-    - _SunsetColor: {r: 7.37721, g: 1.2648932, b: 0, a: 0}
+    - _BottomSkyColor: {r: 0.5471698, g: 0, b: 0, a: 0}
+    - _Color: {r: 22.627409, g: 22.627409, b: 22.627409, a: 0}
+    - _Color_1: {r: 18.815485, g: 18.815485, b: 18.815485, a: 0}
+    - _Color_2: {r: 35.11095, g: 35.11095, b: 35.11095, a: 0}
+    - _SkyColor: {r: 0, g: 0, b: 0, a: 0}
+    - _SunsetColor: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3912229919885183908
 MonoBehaviour:
